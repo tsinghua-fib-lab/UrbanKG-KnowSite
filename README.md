@@ -1,4 +1,4 @@
-# UrbanKG-KnowSite
+# KnowSite: Leveraging Urban Knowledge Graph for Site Selection
 
  !["The Comparison of Data-driven Paradigm and Knowledge-driven Paradigm for Site Selection"](./fig_comparsion.png)
 
